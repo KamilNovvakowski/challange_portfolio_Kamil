@@ -15,13 +15,14 @@ Hej, jestem Kamil. Zdecydowałem się na udział w kursie, ponieważ chcę doda�
 #### Na czym polega ta aplikacja? Do czego służy?
 Aplikacja służy do przeglądania wskaźników, umiejętności, pozycji zawodników i innych danych mogących pomóc, na przykład,  w typowaniu graczy i drużyn przy obstawianiu zakładów. Jest to inicjatywa nie biznesowa, twórcy nie zakładają współpracy z graczami a jedynie skupienie społeczności fanów piłki nożnej.
 
-#### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmienił?
-**Funkcjonalności aplikacji:** 
+#### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? 
+Funkcjonalności aplikacji:
 Jednostkowe tworzenie profili graczy
 Ściąganie i drukowanie danych dotyczących graczy i rozgrywek
 Wyszukiwanie graczy i rozgrywek poprzez wyszukiwarkę wpisaną w aplikację
 Przeglądanie rozgrywek zapisanych przez innych użytkowników
 
+#### Czy są intuicyjne, czy może byś coś zmienił?
 Brakuje ustalenia limitów: wieku dodawanych graczy, możliwych z logiczego punktu widzenia rozgrywek czy ilości wbitych bramek, dozwolonych słów, autoryzowania dodawanych graczy/meczy przez moderatorów. Ponadto brakuje możliwości dodawania zdjęć i ogólnie zdjęć na samej stronie. Jeżeli twórcy aplikacji chcą stworzyć społeczność skautów piłki nożnej, warto byłoby pomyśleć także o forum, ewentualnie o komunikatorze, o sekcji newsów ze świata sportu.
 
 #### Oceń interfejs aplikacji
@@ -29,7 +30,6 @@ Interfejs strony nie wygląda profesjonalnie. Elementy przy przewijaniu nachodz�
 
 #### Czy aplikacja jest intuicyjna?
 Te funkcje, które są dostępne w ramach użytkowania aplikacji są intuicyjne. Nie sprawiają trudności, są prawidłowo rozpisane. Nie trzeba szukać w nieskończoność przycisku zatwierdzającego utworzonego właśnie gracza, zakładki "Mecze" i "Raporty" też nie sprawiają problemów w odczytywaniu informacji.
-
 
 #### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?
 1. Przy tworzeniu imienia gracza możliwym jest używanie słów takich np. jak dupa. 
