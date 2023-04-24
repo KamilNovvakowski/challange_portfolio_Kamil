@@ -13,7 +13,7 @@ Hej, jestem Kamil. Zdecydowałem się na udział w kursie, ponieważ chcę doda�
 ## Subtask 4 ##
 
 #### Na czym polega ta aplikacja? Do czego służy?
-Aplikacja służy do przeglądania wskaźników, umiejętności, pozycji zawodników i innych danych pomagających na przykład w typowaniu graczy i drużyn przy obstawianiu zakładów. Jest to inicjatywa nie biznesowa, twórcy nie zakładają współpracy z graczami a jedynie skupienie społeczności fanów piłki nożnej i rozwijanie jej poprzez dodawanie statystyk.
+Aplikacja służy do przeglądania wskaźników, umiejętności, pozycji zawodników i innych danych mogących pomóc, na przykład,  w typowaniu graczy i drużyn przy obstawianiu zakładów. Jest to inicjatywa nie biznesowa, twórcy nie zakładają współpracy z graczami a jedynie skupienie społeczności fanów piłki nożnej.
 
 #### Jakie funkcjonalności znajdują się w aplikacji? Do czego służą? Czy są intuicyjne, czy może byś coś zmienił?
 **Funkcjonalności aplikacji:** 
@@ -22,13 +22,13 @@ Jednostkowe tworzenie profili graczy
 Wyszukiwanie graczy i rozgrywek poprzez wyszukiwarkę wpisaną w aplikację
 Przeglądanie rozgrywek zapisanych przez innych użytkowników
 
-Brakuje ustalenia limitów: wieku, możliwych logicznie rozgrywek, wbitych bramek, dozwolonych słów i na przykład autoryzowania dodawanych graczy/meczy przez moderatorów. Ponadto brakuje możliwości dodawania zdjęć i ogólnie zdjęć na samej stronie. Jeżeli twórcy aplikacji chcą stworzyć społeczność skautów piłki nożnej, warto byłoby pomyśleć także o forum, ewentualnie o komunikatorze, o sekcji newsów ze świata sportu. Platforma zakłada bezwzględnne zaufanie wobec innych użytkowników, nie ma prawie żadnych ustalonych użytkowania.
+Brakuje ustalenia limitów: wieku dodawanych graczy, możliwych z logiczego punktu widzenia rozgrywek czy ilości wbitych bramek, dozwolonych słów, autoryzowania dodawanych graczy/meczy przez moderatorów. Ponadto brakuje możliwości dodawania zdjęć i ogólnie zdjęć na samej stronie. Jeżeli twórcy aplikacji chcą stworzyć społeczność skautów piłki nożnej, warto byłoby pomyśleć także o forum, ewentualnie o komunikatorze, o sekcji newsów ze świata sportu.
 
 #### Oceń interfejs aplikacji
 Interfejs strony nie wygląda profesjonalnie. Elementy przy przewijaniu nachodzą na siebie, zasłaniając treść strony. Strona przypomina bardziej formularz Google niż profesjonalną stronę dla fanów piłki nożnej. Jedyną informacją o stronie jest logo z nazwą "Futbol kolektyw". Nazwa strony jest wmieszana między treść strony, zamiast ją zwieńczać.
 
 #### Czy aplikacja jest intuicyjna?
-Te funkcje, które są dostępne w ramach użytkowania aplikacji są intuicyjne, brakuje im ograniczników i  zasad ale nie sprawiają trudności, są prawidłowo rozpisane. Nie trzeba szukać w nieskończoność przycisku zatwierdzającego utworzonego właśnie gracza, zakładki "Mecze" i "Raporty" też nie sprawiają problemów w odczytywaniu informacji.
+Te funkcje, które są dostępne w ramach użytkowania aplikacji są intuicyjne. Nie sprawiają trudności, są prawidłowo rozpisane. Nie trzeba szukać w nieskończoność przycisku zatwierdzającego utworzonego właśnie gracza, zakładki "Mecze" i "Raporty" też nie sprawiają problemów w odczytywaniu informacji.
 
 
 #### Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem?
