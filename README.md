@@ -38,3 +38,27 @@ Te funkcje, które są dostępne w ramach użytkowania aplikacji są intuicyjne.
 4. Przy przeglądaniu możliwym jest utworzenie meczu z przeciwnikiem bez podania nazwy drużyny/gracza.
 5. W niektórych miejscach na stronie język polski miesza się z angielskim.
 6. Przy tworzeniu gracza/meczy możliwym jest dodawanie dat z przyszłości.
+
+# Task 2
+
+## Subtask 3
+
+#### Why do we write test cases?
+
+
+
+-To ensure that the software application or system meets the requirements and specifications.
+
+-To validate that the software application or system is working as intended and to catch any defects or bugs.
+
+-To increase the quality of the software application or system by ensuring that it meets the users' needs and expectations.
+
+-To ensure that the software application or system is user-friendly and easy to use.
+
+-To ensure that the software application or system is reliable and performs well under different conditions.
+
+-To ensure that the software application or system is secure and protect users' data.
+
+-To save time and reduce costs by catching defects early in the development cycle.
+
+Overall, test cases help to ensure the quality and reliability of the software application or system, while also increasing user satisfaction and confidence.
